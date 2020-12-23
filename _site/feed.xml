@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schuylines</title>
+    <description>schuylines is a portfolio of my 3D work. Hosted on GitHub Pages, created using Jekyll, stylized using the Barber theme, which was built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
+</description>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Dec 2020 14:14:28 -0700</pubDate>
+    <lastBuildDate>Wed, 23 Dec 2020 14:14:28 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Material Studies</title>
+        <description>&lt;p&gt;These materials were created using real-world measured values, and rendered using PBR techniques.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;min-width: 15%; max-width: 150px;&quot;&gt;&lt;/th&gt;
+    &lt;th style=&quot;max-width: 150px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/200322B.jpeg&quot; style=&quot;margins: auto;&quot; /&gt;
+    &lt;/th&gt;
+    &lt;th style=&quot;min-width: 15%; max-width: 150px;&quot;&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Sun, 22 Mar 2020 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2020/03/22/Mat-Studies/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/03/22/Mat-Studies/</guid>
+        
+        <category>Interiors</category>
+        
+        <category>Random</category>
+        
+        <category>PBR</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Isometric</title>
+        <description>&lt;p&gt;Who doesn’t enjoy isometric rooms?&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;max-width: 50%;&quot;&gt;
+      &lt;img src=&quot;/assets/images/200223A.png&quot; /&gt;
+    &lt;/th&gt;
+    &lt;th style=&quot;max-width: 50%;&quot;&gt;
+      &lt;img src=&quot;/assets/images/200223B.png&quot; /&gt;
+    &lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Sun, 23 Feb 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/02/23/Isometric/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/23/Isometric/</guid>
+        
+        <category>Interiors</category>
+        
+        <category>PBR</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>DELAKTIG-Inspired</title>
+        <description>&lt;p&gt;Inspired by &lt;a href=&quot;https://www.ikea.com/ca/en/p/delaktig-bed-frame-aluminum-s79287532/&quot;&gt;Ikea’s DELAKTIG&lt;/a&gt; bed frame: the unofficial bedstand.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;min-width: 15%; max-width: 150px;&quot;&gt;&lt;/th&gt;
+    &lt;th style=&quot;max-width: 150px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/200106B.jpeg&quot; style=&quot;margins: auto;&quot; /&gt;
+    &lt;/th&gt;
+    &lt;th style=&quot;min-width: 15%; max-width: 150px;&quot;&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Mon, 06 Jan 2020 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2020/01/06/Delaktig/</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/01/06/Delaktig/</guid>
+        
+        <category>Interiors</category>
+        
+        <category>Random</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Micro Hydro System</title>
+        <description>&lt;p&gt;Dimensions on a napkin never looked so good!&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;text-align: right;&quot;&gt;
+      &lt;img src=&quot;/assets/images/190921B.png&quot; style=&quot;max-height: 500px;&quot; /&gt;
+    &lt;/th&gt;
+    &lt;th style=&quot;text-align: left;&quot;&gt;
+      &lt;img src=&quot;/assets/images/190921C.png&quot; style=&quot;max-height: 500px;&quot; /&gt;
+    &lt;/th&gt;
+    &lt;th style=&quot;text-align: left;&quot;&gt;
+      &lt;img src=&quot;/assets/images/190921D.png&quot; style=&quot;max-height: 500px;&quot; /&gt;
+    &lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Sat, 21 Sep 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2019/09/21/Micro-Hydro/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/09/21/Micro-Hydro/</guid>
+        
+        <category>Exteriors</category>
+        
+        <category>Visualizations</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Placeholder</title>
+        <description>&lt;p&gt;Responsive testing? Quick, make a “placeholder” image!&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Thu, 16 May 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2019/05/16/Placeholder/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/05/16/Placeholder/</guid>
+        
+        <category>Exteriors</category>
+        
+        <category>Random</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Musk, by Elon</title>
+        <description>&lt;p&gt;Coming soon: Musk by Errol.&lt;/p&gt;
+
+&lt;video controls=&quot;&quot; poster=&quot;/assets/images/MuskbyElon.jpg&quot;&gt;
+  &lt;source src=&quot;/assets/images/MuskbyElon.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+&lt;/video&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Thu, 04 Apr 2019 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2019/04/04/Musk-by-Elon/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/04/04/Musk-by-Elon/</guid>
+        
+        <category>Random</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Road Ranger</title>
+        <description>&lt;p&gt;My partner and I bought and renovated a vintage camper!&lt;/p&gt;
+
+&lt;table style=&quot;width:100%&quot;&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;text-align: right;&quot;&gt; &lt;/th&gt;
+    &lt;th style=&quot;text-align: center;&quot;&gt;The Looks&lt;/th&gt;
+    &lt;th style=&quot;text-align: left;&quot;&gt; &lt;/th&gt; 
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;max-width: 150px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/RV_Backsplash1.png&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td style=&quot;max-width: 150px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/RV_Backsplash2.png&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td style=&quot;max-width: 150px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/RV_Monotone.jpg&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;As we planned our changes, I modeled them up and rendered them out. Who knew &lt;a href=&quot;https://www.blender.org/&quot;&gt;Blender&lt;/a&gt; could be such a wonderful project planning tool.  ;)&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/RV_Layout2.png&quot; alt=&quot;EndResult&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in pre-visualizing a renovation of your own, check out &lt;a href=&quot;https://www.reno-visions.com/&quot;&gt;Reno-Visions&lt;/a&gt; for more information on this process.&lt;/p&gt;
+
+&lt;!--- 
+&lt;table style=&quot;width:100%&quot;&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;text-align: right;&quot;&gt;End&lt;/th&gt;
+    &lt;th style=&quot;text-align: left;&quot;&gt; Results&lt;/th&gt; 
+  &lt;/tr&gt;
+  &lt;tr&gt;
+    &lt;td style=&quot;max-width: 200px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/RV_Layout2.png&quot; /&gt;
+    &lt;/td&gt;
+    &lt;td style=&quot;max-width: 200px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/RV_Layout1.png&quot; /&gt;
+    &lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+--- &gt;
+
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Wed, 06 Feb 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019/02/06/RV/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/06/RV/</guid>
+        
+        <category>Exteriors</category>
+        
+        <category>Interiors</category>
+        
+        <category>Visualizations</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fields of Gold</title>
+        <description>&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Tue, 27 Nov 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/11/27/GoldenField/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/27/GoldenField/</guid>
+        
+        <category>Exteriors</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ninja</title>
+        <description>&lt;p&gt;Thank you Darrin Lile for &lt;a href=&quot;https://www.youtube.com/watch?v=0QT1GNMevfc&quot;&gt;your character modeling tutorials&lt;/a&gt;. I was still in the Halloween spirit when I made this little fella.&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Sun, 11 Nov 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/11/11/Ninja/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/11/11/Ninja/</guid>
+        
+        <category>Characters</category>
+        
+        <category>Exteriors</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Patch</title>
+        <description>&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Wed, 31 Oct 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/10/31/Patch/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/10/31/Patch/</guid>
+        
+        <category>Characters</category>
+        
+        <category>Exteriors</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>NURBS</title>
+        <description>&lt;p&gt;Thank you to Rusty Hazelden for this tutorial on &lt;a href=&quot;https://cgsociety.org/news/article/4064/the-art-of-nurbs-vol-1-with-rusty-hazelden&quot;&gt;NURBS Modeling&lt;/a&gt;. Although &lt;a href=&quot;https://www.blender.org&quot;&gt;Blender&lt;/a&gt; doesn’t have a NURBS implementation, I was able to find comparable functionality throughout the series.&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Thu, 27 Sep 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/09/27/NURBS/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/27/NURBS/</guid>
+        
+        <category>Exteriors</category>
+        
+        <category>Random</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sky Writing</title>
+        <description>&lt;p&gt;Playing around with &lt;a href=&quot;https://www.blender.org&quot;&gt;Blender&lt;/a&gt;’s volumetrics.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/180923B.jpeg&quot; alt=&quot;Schuy Writing&quot; /&gt;&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Sun, 23 Sep 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/09/23/skywriting/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/23/skywriting/</guid>
+        
+        <category>Exteriors</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Satellite Tower</title>
+        <description>&lt;p&gt;The snow load keeps knocking my satellite dish out of alignment.&lt;/p&gt;
+
+&lt;p&gt;So I modelled up a solution, and turned this render into reality!&lt;/p&gt;
+
+&lt;p&gt;It seems to do the trick.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;text-align: right;&quot;&gt;
+      &lt;img src=&quot;/assets/images/180906A.jpeg&quot; style=&quot;max-height: 500px;&quot; /&gt;
+    &lt;/th&gt;
+    &lt;th style=&quot;text-align: left;&quot;&gt;
+      &lt;img src=&quot;/assets/images/180906B.jpg&quot; style=&quot;max-height: 500px;&quot; /&gt;
+    &lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Thu, 06 Sep 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/09/06/Sat-Tower/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/06/Sat-Tower/</guid>
+        
+        <category>Exteriors</category>
+        
+        <category>Visualizations</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Character Work</title>
+        <description>&lt;p&gt;Playing around with &lt;a href=&quot;https://www.blender.org&quot;&gt;Blender&lt;/a&gt;’s Skin modifier to create my first character, and her weird amorphous cat.&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Sun, 26 Aug 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/08/26/character/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/26/character/</guid>
+        
+        <category>Characters</category>
+        
+        <category>Interiors</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cluster Builder</title>
+        <description>&lt;p&gt;Mr Cluster was created for &lt;a href=&quot;https://www.idstudios.io/&quot;&gt;ID Studios&lt;/a&gt; to guide users through configuration and deployment of containers using &lt;a href=&quot;https://cluster-builder.idstudios.io/&quot;&gt;Cluster Builder&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/180724B.jpeg#full&quot; alt=&quot;Cluster Builder&quot; /&gt;&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Tue, 24 Jul 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/07/24/CB/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/07/24/CB/</guid>
+        
+        <category>Characters</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>2D Elements</title>
+        <description>&lt;p&gt;Playing around with 2D elements for a collage-style look.&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Sat, 05 May 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/05/05/2D-elements/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/05/05/2D-elements/</guid>
+        
+        <category>Exteriors</category>
+        
+        <category>Random</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Still Life</title>
+        <description>&lt;p&gt;Thank you &lt;a href=&quot;https://www.udemy.com/course/complete3dartist/&quot;&gt;Stephen Woods&lt;/a&gt; for this in-depth introduction to &lt;a href=&quot;https://www.blender.org/&quot;&gt;Blender&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/180425B.png#full&quot; alt=&quot;Base Model&quot; /&gt;&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Wed, 25 Apr 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/04/25/Still-Life/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/25/Still-Life/</guid>
+        
+        <category>Interiors</category>
+        
+        <category>Food</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Office</title>
+        <description>&lt;p&gt;Playing around with procedural textures ie wood planks, galvanized steel, and finger-printed glass.&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Mon, 12 Mar 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/2018/03/12/office/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/12/office/</guid>
+        
+        <category>Interiors</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Inset and Extrude</title>
+        <description>&lt;p&gt;Playing around with &lt;a href=&quot;https://www.blender.org&quot;&gt;Blender&lt;/a&gt;’s Inset and Extrude functionality.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/180114.jpg&quot; alt=&quot;MonsterTrike&quot; /&gt;&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Fri, 12 Jan 2018 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2018/01/12/inset-extrude/</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/01/12/inset-extrude/</guid>
+        
+        <category>Interiors</category>
+        
+        <category>Random</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Donut</title>
+        <description>&lt;p&gt;Thank you to &lt;a href=&quot;https://www.youtube.com/user/AndrewPPrice&quot;&gt;Blender Guru&lt;/a&gt; for the whimsical introduction to &lt;a href=&quot;https://www.blender.org&quot;&gt;Blender&lt;/a&gt;!  :)&lt;/p&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Fri, 08 Dec 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2017/12/08/donut/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/12/08/donut/</guid>
+        
+        <category>Food</category>
+        
+        <category>Holidays</category>
+        
+        <category>Interiors</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
