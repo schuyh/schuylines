@@ -1,3 +1,6 @@
+# Build Settings
+remote_theme: samesies/barber-jekyll
+
 # Site/SEO settings
 email: schuy+net@schuylines.net
 baseurl: ""
