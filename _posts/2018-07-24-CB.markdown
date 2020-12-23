@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Cluster Builder"
+description: 
+image: /assets/images/180724A.jpg
+author: Schuy H
+tags: 
+  - Characters
+---
+
+Mr Cluster was created for [ID Studios](https://www.idstudios.io/) to guide users through configuration and deployment of containers using [Cluster Builder](https://cluster-builder.idstudios.io/). 
+
+<br />
+
+<br />
+
+![Cluster Builder](/assets/images/180724B.jpeg#full)
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 

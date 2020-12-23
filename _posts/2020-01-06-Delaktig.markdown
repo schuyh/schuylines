@@ -1,0 +1,33 @@
+---
+layout: post
+title: "DELAKTIG-Inspired"
+description: 
+image: /assets/images/200106A.jpeg
+author: Schuy H
+tags: 
+  - Interiors
+  - Random
+---
+
+Inspired by [Ikea's DELAKTIG](https://www.ikea.com/ca/en/p/delaktig-bed-frame-aluminum-s79287532/) bed frame: the unofficial bedstand.
+
+<br />
+<br />
+
+<table>
+  <tr>
+    <th style="min-width: 15%; max-width: 150px;"></th>
+    <th style="max-width: 150px;">
+      <img src="/assets/images/200106B.jpeg" style="margins: auto;">
+    </th>
+    <th style="min-width: 15%; max-width: 150px;"></th>
+  </tr>
+</table>
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 

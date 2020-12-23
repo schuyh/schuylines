@@ -1,0 +1,70 @@
+---
+layout: post
+title: "Road Ranger"
+description: 
+image: /assets/images/RV_Monotone.jpg
+author: Schuy H
+tags: 
+  - Exteriors
+  - Interiors
+  - Visualizations
+---
+
+My partner and I bought and renovated a vintage camper!
+
+<table style="width:100%">
+  <tr>
+    <th style="text-align: right;"> </th>
+    <th style="text-align: center;">The Looks</th>
+    <th style="text-align: left;"> </th> 
+  </tr>
+  <tr>
+    <td style="max-width: 150px;">
+      <img src="/assets/images/RV_Backsplash1.png" />
+    </td>
+    <td style="max-width: 150px;">
+      <img src="/assets/images/RV_Backsplash2.png" />
+    </td>
+    <td style="max-width: 150px;">
+      <img src="/assets/images/RV_Monotone.jpg" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+As we planned our changes, I modeled them up and rendered them out. Who knew [Blender](https://www.blender.org/) could be such a wonderful project planning tool.  ;)
+
+<br />
+
+![EndResult](/assets/images/RV_Layout2.png)
+
+<br />
+
+If you're interested in pre-visualizing a renovation of your own, check out [Reno-Visions](https://www.reno-visions.com/) for more information on this process. 
+
+<!--- 
+<table style="width:100%">
+  <tr>
+    <th style="text-align: right;">End</th>
+    <th style="text-align: left;"> Results</th> 
+  </tr>
+  <tr>
+    <td style="max-width: 200px;">
+      <img src="/assets/images/RV_Layout2.png" />
+    </td>
+    <td style="max-width: 200px;">
+      <img src="/assets/images/RV_Layout1.png" />
+    </td>
+  </tr>
+</table>
+--- >
+
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 
