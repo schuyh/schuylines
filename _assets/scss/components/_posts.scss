@@ -25,6 +25,25 @@
     }
   }
 
+  &__containerSchuy {
+    margin: {
+      right: -1em;
+      left: -1em;
+    }
+
+    .column {
+      float: left;
+      width: 50%;
+    }
+    
+    /* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+  }
+
   &__container {
     margin: {
       right: -1em;
