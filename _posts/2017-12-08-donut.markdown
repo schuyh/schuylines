@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Donut"
+description: 
+image: /assets/images/171208.jpeg
+author: Schuy H
+tags: 
+  - Food
+  - Holidays
+  - Interiors
+---
+
+Thank you to [Blender Guru](https://www.youtube.com/user/AndrewPPrice) for the whimsical introduction to [Blender](https://www.blender.org)!  :)
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 

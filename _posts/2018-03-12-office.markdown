@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Office"
+description: 
+image: /assets/images/180312.jpg
+author: Schuy H
+tags: 
+  - Interiors
+---
+
+Playing around with procedural textures ie wood planks, galvanized steel, and finger-printed glass. 
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 

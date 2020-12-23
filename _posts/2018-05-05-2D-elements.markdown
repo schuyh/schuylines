@@ -1,0 +1,20 @@
+---
+layout: post
+title: "2D Elements"
+description: 
+image: /assets/images/180505.jpeg
+author: Schuy H
+tags: 
+  - Exteriors
+  - Random
+---
+
+Playing around with 2D elements for a collage-style look. 
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Ninja"
+description: 
+image: /assets/images/181031.png
+author: Schuy H
+tags: 
+  - Characters
+  - Exteriors
+---
+
+Thank you Darrin Lile for [your character modeling tutorials](https://www.youtube.com/watch?v=0QT1GNMevfc). I was still in the Halloween spirit when I made this little fella. 
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 

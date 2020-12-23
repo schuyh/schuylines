@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Satellite Tower"
+description: 
+image: /assets/images/180906.png
+author: Schuy H
+tags: 
+  - Exteriors
+  - Visualizations
+---
+
+The snow load keeps knocking my satellite dish out of alignment. 
+
+So I modelled up a solution, and turned this render into reality!
+
+It seems to do the trick.
+
+<br />
+<br />
+
+<table>
+  <tr>
+    <th style="text-align: right;">
+      <img src="/assets/images/180906A.jpeg" style="max-height: 500px;">
+    </th>
+    <th style="text-align: left;">
+      <img src="/assets/images/180906B.jpg" style="max-height: 500px;">
+    </th>
+  </tr>
+</table>
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 
