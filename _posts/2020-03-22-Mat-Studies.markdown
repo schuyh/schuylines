@@ -1,14 +1,16 @@
 ---
 layout: post
-title: "My Office"
+title: "Material Studies"
 description: 
-image: /assets/images/190205A.png
+image: /assets/images/200322A.png
 author: Schuy H
 tags: 
   - Interiors
+  - Random
+  - PBR
 ---
 
-An early attempt at photorealism, before my study of PBR. 
+These materials were created using real-world measured values, and rendered using PBR techniques.
 
 <br />
 <br />
@@ -17,7 +19,7 @@ An early attempt at photorealism, before my study of PBR.
   <tr>
     <th style="min-width: 15%; max-width: 150px;"></th>
     <th style="max-width: 150px;">
-      <img src="/assets/images/190205B.jpeg" style="margins: auto;">
+      <img src="/assets/images/200322B.jpeg" style="margins: auto;">
     </th>
     <th style="min-width: 15%; max-width: 150px;"></th>
   </tr>
