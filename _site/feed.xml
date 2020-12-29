@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Dec 2020 11:28:03 -0700</pubDate>
-    <lastBuildDate>Fri, 25 Dec 2020 11:28:03 -0700</lastBuildDate>
+    <pubDate>Tue, 29 Dec 2020 16:14:26 -0700</pubDate>
+    <lastBuildDate>Tue, 29 Dec 2020 16:14:26 -0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -279,6 +279,40 @@
         <category>Interiors</category>
         
         <category>Visualizations</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Office</title>
+        <description>&lt;p&gt;An early attempt at photorealism, before my study of PBR.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;tr&gt;
+    &lt;th style=&quot;min-width: 15%; max-width: 150px;&quot;&gt;&lt;/th&gt;
+    &lt;th style=&quot;max-width: 150px;&quot;&gt;
+      &lt;img src=&quot;/assets/images/190205B.jpeg&quot; style=&quot;margins: auto;&quot; /&gt;
+    &lt;/th&gt;
+    &lt;th style=&quot;min-width: 15%; max-width: 150px;&quot;&gt;&lt;/th&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---&gt;
+</description>
+        <pubDate>Tue, 05 Feb 2019 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/2019/02/05/My-Office/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/02/05/My-Office/</guid>
+        
+        <category>Interiors</category>
         
         
       </item>

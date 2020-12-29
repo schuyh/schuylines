@@ -67,6 +67,7 @@ autopages:
 markdown: kramdown
 plugins:
   - jekyll-sitemap
+
 compress_html:
   clippings: all
   comments: all
