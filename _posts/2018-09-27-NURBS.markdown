@@ -3,6 +3,7 @@ layout: post
 title: "NURBS"
 description: 
 image: /assets/images/180927.jpg
+ao: 
 author: Schuy H
 tags: 
   - Exteriors
@@ -11,7 +12,11 @@ tags:
 
 Thank you to Rusty Hazelden for this tutorial on [NURBS Modeling](https://cgsociety.org/news/article/4064/the-art-of-nurbs-vol-1-with-rusty-hazelden). Although [Blender](https://www.blender.org) doesn't have a NURBS implementation, I was able to find comparable functionality throughout the series. 
 
-<!--- Image examples: secondary, full width
+<!--- 
+
+Optinal front matter: Date: yyyy-mm-dd hh:mm:ss
+
+Image examples: secondary, full width
 
 ![Placeholder](/assets/images/171208.jpeg)
 

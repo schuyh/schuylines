@@ -13,17 +13,8 @@ tags:
 These materials were created using real-world measured values, and rendered using PBR techniques.
 
 <br />
-<br />
 
-<table>
-  <tr>
-    <th style="min-width: 15%; max-width: 150px;"></th>
-    <th style="max-width: 150px;">
-      <img src="/assets/images/200322B.jpeg" style="margins: auto;">
-    </th>
-    <th style="min-width: 15%; max-width: 150px;"></th>
-  </tr>
-</table>
+<img class="post-image d-flex mx-auto" src="/assets/images/200322B.jpeg" alt="Office Chair" style="max-height: 55%; max-width: 55%;">
 
 <!--- Image examples: secondary, full width
 

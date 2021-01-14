@@ -3,6 +3,7 @@ layout: post
 title: "Ninja"
 description: 
 image: /assets/images/181031.png
+ao: 
 author: Schuy H
 tags: 
   - Characters
@@ -11,7 +12,11 @@ tags:
 
 Thank you Darrin Lile for [your character modeling tutorials](https://www.youtube.com/watch?v=0QT1GNMevfc). I was still in the Halloween spirit when I made this little fella. 
 
-<!--- Image examples: secondary, full width
+<!--- 
+
+Optinal front matter: Date: yyyy-mm-dd hh:mm:ss
+
+Image examples: secondary, full width
 
 ![Placeholder](/assets/images/171208.jpeg)
 

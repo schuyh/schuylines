@@ -3,6 +3,7 @@ layout: post
 title: "Placeholder"
 description: 
 image: /assets/images/190516.jpeg
+ao: 
 author: Schuy H
 tags: 
   - Exteriors
@@ -11,7 +12,11 @@ tags:
 
 Responsive testing? Quick, make a "placeholder" image! 
 
-<!--- Image examples: secondary, full width
+<!--- 
+
+Optinal front matter: Date: yyyy-mm-dd hh:mm:ss
+
+Image examples: secondary, full width
 
 ![Placeholder](/assets/images/171208.jpeg)
 

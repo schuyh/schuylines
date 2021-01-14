@@ -1,0 +1,17 @@
+<div class="card shadow-sm" style="margin: 15px; border-radius: 0px; border-color: var(--grey)">
+    <div class="card-header postcard" style="border-radius: 0px; background-color: var(--lgrey);">
+        <h3 class="card-title postcard postcard-header">{{ post.title | strip_html | truncatewords: 3}}</h3>
+    </div>
+    <div class="card-body bg-white postcard">
+        {% if post.ao %}
+            <img class="card-img-top postcard-image d-flex mx-auto shadow-sm" src="{{ post.ao }}" alt="{{ page.title }}" style="width: auto;">
+            {% else %}
+            <img class="card-img-top postcard-image greyscale d-flex mx-auto shadow-sm" src="{{ post.image }}" alt="{{ page.title }}" style="width: auto;">
+        {% endif %}
+        <div class="card-img-overlay postcard-text d-flex justify-content-start align-items-end" style="margin-left: -5px; margin-right: -5px;">
+            <span class="highlight">
+            <a href="{{ post.url }}" class="stretched-link postcard">{{ post.excerpt | strip_html | strip_newlines | truncatewords: 9 }}</a>
+            </span>
+        </div>
+    </div>
+</div>

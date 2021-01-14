@@ -1,25 +1,43 @@
----
-layout: compress
----
 <!DOCTYPE html>
-<html lang="en">
-<head>
-
-  {% include head.html %}
-
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <!-- Latest compiled and minified Bootstrap CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <!-- Canvas CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <!-- Google Fonts-->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans&family=Roboto:wght@200&family=Roboto+Slab:wght@300&family=Roboto+Mono:wght@300&display=swap" rel="stylesheet">
+    <!-- Font Awesome-->
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 </head>
-<body id="{% if page.title %}{{ page.title | slugify }}{% else %}home{% endif %}" class="{{ page.layout | downcase }}-layout" >
-  
-  {% include header.html %}
+    <body>
+    <!-- Page Start -->
+        <div style="height: 1000px;">
+    <!-- Header -->
+            {% include header.html %}
+    <!-- Nav -->
+            {% include navigation.html %}
+    <!-- Body/Content -->
+            <div class="container-fluid pt-3">
+                {{ content }}
+                <br />
+            </div>
+    <!-- Footer -->
+            {% include footer.html %}
+    <!-- Page End -->
+        </div>
 
-  <main class="💈">
+        <!-- Javascript-->
 
-    {{ content }}
-    
-    <br style="clear: both;"/> 
-  </main>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.min.js" integrity="sha384-pQQkAEnwaBkjpqZ8RU1fF1AKtTcHJwFl3pblpTlHXybJjHpMYo79HY3hIi4NKxyj" crossorigin="anonymous"></script>
 
-  {% include footer.html %}
+        <script src="/scripts/firefox-night-mode.js"></script>
 
-</body>
+        <script src="/scripts/mode-switcher.js"></script>
+
+    </body>
 </html>

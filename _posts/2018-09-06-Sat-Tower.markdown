@@ -3,6 +3,7 @@ layout: post
 title: "Satellite Tower"
 description: 
 image: /assets/images/180906.png
+ao: 
 author: Schuy H
 tags: 
   - Exteriors
@@ -16,20 +17,23 @@ So I modelled up a solution, and turned this render into reality!
 It seems to do the trick.
 
 <br />
-<br />
 
-<table>
-  <tr>
-    <th style="text-align: right;">
-      <img src="/assets/images/180906A.jpeg" style="max-height: 500px;">
-    </th>
-    <th style="text-align: left;">
-      <img src="/assets/images/180906B.jpg" style="max-height: 500px;">
-    </th>
-  </tr>
-</table>
+<div class="container-fluid">
+  <div class="row d-flex mx-auto align-items-center">
+    <div class="col-6 d-flex justify-content-center">
+      <img class="post-image" src="/assets/images/180906A.jpeg" style="max-width: 425px;">
+    </div>
+    <div class="col-6 d-flex justify-content-center">
+      <img class="post-image" src="/assets/images/180906B.jpg" style="max-width: 320px;">
+    </div>
+  </div>
+</div>
 
-<!--- Image examples: secondary, full width
+<!--- 
+
+Optinal front matter: Date: yyyy-mm-dd hh:mm:ss
+
+Image examples: secondary, full width
 
 ![Placeholder](/assets/images/171208.jpeg)
 

@@ -1,6 +1,22 @@
-<nav>
-  <ul class="header__list">
-    <li><a href="{{ '/' | prepend: site.baseurl }}">Gallery</a></li>
-    <li><a href="mailto:schuy+net@schuylines.net?subject=Contact%20Form&body=Hi%20Sky,">Contact</a></li>
-  </ul>
+<nav class="navbar navbar-expand sticky-top shadow-sm" style="height: 8%; background-color: var(--lgrey);">
+    <a class="navbar-brand" href="/">
+        <img class="navbar-brand-image" src="{{ site.logo }}" alt="logo" style="width: 50px;">
+    </a>
+    <ul class="navbar-nav" style="width: 100%;">
+        {% for item in site.data.navigation %}
+        <li class="nav-item">
+            <a class="nav-link" href="{{ item.link }}">
+                {{ item.name }}
+            </a>
+        </li>
+        {% endfor %}
+        <li class="nav-item">
+            <a class="nav-link" href="mailto:{{ site.email }}?subject=Contact%20Us&body=Hi%20{{ site.alias }}%2C">
+                Email Me
+            </a>
+        </li>
+    </ul>
+    <ul class="navbar-nav justify-content-end">
+        {% include toggle.html %}
+    </ul>
 </nav>

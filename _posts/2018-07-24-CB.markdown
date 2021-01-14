@@ -3,6 +3,7 @@ layout: post
 title: "Cluster Builder"
 description: 
 image: /assets/images/180724A.jpg
+ao: 
 author: Schuy H
 tags: 
   - Characters
@@ -12,11 +13,13 @@ Mr Cluster was created for [ID Studios](https://www.idstudios.io/) to guide user
 
 <br />
 
-<br />
+<img class="post-image" src="/assets/images/180724B.jpeg" alt="Cluster Builder" style="height: auto;">
 
-![Cluster Builder](/assets/images/180724B.jpeg#full)
+<!--- 
 
-<!--- Image examples: secondary, full width
+Optinal front matter: Date: yyyy-mm-dd hh:mm:ss
+
+Image examples: secondary, full width
 
 ![Placeholder](/assets/images/171208.jpeg)
 

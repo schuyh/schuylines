@@ -3,6 +3,7 @@ layout: post
 title: "My Office"
 description: 
 image: /assets/images/190205A.png
+ao: 
 author: Schuy H
 tags: 
   - Interiors
@@ -11,19 +12,14 @@ tags:
 An early attempt at photorealism, before my study of PBR. 
 
 <br />
-<br />
 
-<table>
-  <tr>
-    <th style="min-width: 15%; max-width: 150px;"></th>
-    <th style="max-width: 150px;">
-      <img src="/assets/images/190205B.jpeg" style="margins: auto;">
-    </th>
-    <th style="min-width: 15%; max-width: 150px;"></th>
-  </tr>
-</table>
+<img class="post-image greyscale50" src="/assets/images/190205B.jpeg" alt="reference photo" style="height: auto;">
 
-<!--- Image examples: secondary, full width
+<!--- 
+
+Optinal front matter: Date: yyyy-mm-dd hh:mm:ss
+
+Image examples: secondary, full width
 
 ![Placeholder](/assets/images/171208.jpeg)
 

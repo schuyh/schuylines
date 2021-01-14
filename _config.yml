@@ -1,84 +1,11 @@
-# Site/SEO settings
-email: schuy+net@schuylines.net
-baseurl: ""
-permalink: /:year/:month/:day/:title/
-google_analytics: 
+url: "https://www.schuylines.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "schuylines" # the name of your site, e.g. ACME Corp.
+logo: "/assets/images/canvas6.png"
 
-name: Schuy H
-title: schuylines
-description: >
-  schuylines is a portfolio of my 3D work. Hosted on GitHub Pages, created using Jekyll, stylized using the Barber theme, which was built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
-url: https://www.schuylines.net
-# twitter_username: 
-default_img: /assets/images/seo.jpg
-social:
-  - name: twitter
-    url: 
-  - name: instagram
-    url: 
-  - name: linkedin
-    url: https://www.linkedin.com/in/schuy/
-  - name: github
-    url: https://github.com/schuyh/
+author: Schuy H
+alias: Sky # author's alias -- appears in body of mailto: link
+email: schuy+net@schuylines.net # PUBLICALLY AVAILABLE in "contact us" mailto: link
 
-# Contact settings
-# contact_img: 
-# formcarry: 
-
-# Disqus settings
-# disqus: 
-
-# MailChimp settings
-# mailchimp_action: 
-# mailchimp_input: 
-
-# Author settings
-author:
-  - name: Schuy H
-    bio: Schuy is a self-taught 3D generalist with particular interest in photorealism and the Physically Based Rendering approach.
-    url: https://www.reno-visions.com/
-
-# Pagination settings
-pagination:
-  enabled: true
-  debug: false
-  per_page: 12
-  permalink: '/page/:num/'
-  title: ':title'
-  limit: 0
-  sort_field: 'date'
-  sort_reverse: true
-autopages:
-  enabled: true
-  categories:
-    enabled: false
-  collections:
-    enabled: false
-  tags:
-    layouts: 
-      - 'tag.html'
-    title: 'schuylines'
-    permalink: '/tag/:tag'
-    slugify:
-      mode: raw
-      cased: true
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-sitemap
-
-compress_html:
-  clippings: all
-  comments: all
-  startings: [html, head, body]
-exclude:
-  - node_modules
-  - .DS_Store
-  - barber.jpg
-  - Gemfile
-  - Gemfile.lock
-  - gulpfile.js
-  - package.json
-  - README.md
-  - vendor
+sass:
+  style: compressed

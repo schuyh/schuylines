@@ -3,6 +3,7 @@ layout: post
 title: "Donut"
 description: 
 image: /assets/images/171208.jpeg
+ao:
 author: Schuy H
 tags: 
   - Food
@@ -12,7 +13,11 @@ tags:
 
 Thank you to [Blender Guru](https://www.youtube.com/user/AndrewPPrice) for the whimsical introduction to [Blender](https://www.blender.org)!  :)
 
-<!--- Image examples: secondary, full width
+<!--- 
+
+Optinal front matter: Date: yyyy-mm-dd hh:mm:ss
+
+Image examples: secondary, full width
 
 ![Placeholder](/assets/images/171208.jpeg)
 
