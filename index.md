@@ -1,5 +1,6 @@
 ---
 layout: default
+title: home
 ---
 
 <div class="pt-3">
