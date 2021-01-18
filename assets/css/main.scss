@@ -53,10 +53,6 @@ html[data-theme="dark"] {
   } 
 }
 
-/* Responsive: Anything Larger than a Phone */ 
-
-@media screen and (min-width: 600px){
-
 /* Fonts */ 
 
 h1, h2, h3, h4, h5, h6 {
@@ -127,11 +123,6 @@ p {
 
 ul.nav {
     list-style-type: none;
-}
-
-.nav-icons {
-    max-width: 42px;
-    height: auto;
 }
 
 body {
@@ -207,6 +198,16 @@ img.greyscale {
 img.greyscale50 {
     filter: grayscale(35%) contrast(95%) brightness(105%);
 }
+
+/* Responsive: Anything Larger than a Phone */ 
+
+@media screen and (min-width: 600px){
+
+    .nav-icons {
+        max-width: 42px;
+        height: auto;
+    }
+    
 } 
 
 /* Responsive: iPhone SE */
