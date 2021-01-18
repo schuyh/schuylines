@@ -207,6 +207,10 @@ img.greyscale50 {
         max-width: 42px;
         height: auto;
     }
+
+    .social {
+        font-size: 125%;
+    }
     
 } 
 
@@ -219,6 +223,10 @@ img.greyscale50 {
     }
 
     .nav-link {
+        font-size: 69%;
+    }
+
+    .social {
         font-size: 69%;
     }
 
@@ -240,13 +248,17 @@ img.greyscale50 {
     }
 
     .postcard-image {
-        max-height: 315px;
+        max-height: 365px;
         max-width: 100%;
     }
 
     .post-image {
-        max-height: 100%;
         max-width: 100%;
+        height: auto;
+    }
+
+    .social {
+        font-size: 84%;
     }
 
     .footer {

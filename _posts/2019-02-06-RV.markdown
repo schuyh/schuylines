@@ -44,23 +44,6 @@ As we planned our changes, I modeled them up and rendered them out. Who knew [Bl
 
 If you're interested in pre-visualizing a renovation of your own, check out [Reno-Visions](https://www.reno-visions.com/) for more information on this process. 
 
-<!--- 
-<table style="width:100%">
-  <tr>
-    <th style="text-align: right;">End</th>
-    <th style="text-align: left;"> Results</th> 
-  </tr>
-  <tr>
-    <td style="max-width: 200px;">
-      <img src="/assets/images/RV_Layout2.png" />
-    </td>
-    <td style="max-width: 200px;">
-      <img src="/assets/images/RV_Layout1.png" />
-    </td>
-  </tr>
-</table>
---- >
-
 
 <!--- 
 
