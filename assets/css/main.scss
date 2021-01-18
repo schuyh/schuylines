@@ -115,30 +115,6 @@ p {
     color: var(--grey);
 }
 
-/* Scrollbar */
-
-  /* width */
-  ::-webkit-scrollbar {
-    display: none;
-    /* or... width: 3px; */ 
-  }
-  
-  /* Track */
-  ::-webkit-scrollbar-track {
-    background: var(--white); 
-  }
-   
-  /* Handle */
-  ::-webkit-scrollbar-thumb {
-    background: var(--lgrey); 
-    box-shadow: inset 0 0 5px grey;
-  }
-  
-  /* Handle on hover */
-  ::-webkit-scrollbar-thumb:hover {
-    background: var(--grey); 
-  }
-
 /* Structural Elements */ 
 
 .header {
