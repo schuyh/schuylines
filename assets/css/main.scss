@@ -53,6 +53,10 @@ html[data-theme="dark"] {
   } 
 }
 
+/* Responsive: Anything Larger than a Phone */ 
+
+@media screen and (min-width: 600px){
+
 /* Fonts */ 
 
 h1, h2, h3, h4, h5, h6 {
@@ -203,8 +207,9 @@ img.greyscale {
 img.greyscale50 {
     filter: grayscale(35%) contrast(95%) brightness(105%);
 }
+} 
 
-/* Responsive: iPhone 5 */
+/* Responsive: iPhone SE */
 
 @media only screen and (max-width: 320px) {
     .nav-icons {
