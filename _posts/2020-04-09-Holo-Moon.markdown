@@ -7,6 +7,8 @@ ao: /assets/images/200409AO.png
 author: Schuy H
 tags: 
   - Interiors
+  - Characters
+  - Tech
 ---
 
 A tape recorder that captures and plays back holographic footage? That's right out of The Original Series! 

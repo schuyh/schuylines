@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Entry Way on a Sunny Day"
+title: "Entryway on a Sunny Day"
 description: 
 image: /assets/images/200421.png
 ao: 
 author: Schuy H
 tags: 
   - Interiors
+  - PBR
 --- 
 
 A simple sun porch with a coppery colour palette.

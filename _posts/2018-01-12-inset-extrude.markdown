@@ -8,6 +8,7 @@ author: Schuy H
 tags: 
   - Interiors
   - Random
+  - Tech
 ---
 
 Playing around with [Blender](https://www.blender.org)'s Inset and Extrude functionality. 
