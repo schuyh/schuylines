@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Entry Way on a Sunny Day"
+description: 
+image: /assets/images/200421.png
+ao: 
+author: Schuy H
+tags: 
+  - Interiors
+--- 
+
+A simple sun porch with a coppery colour palette.
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 

@@ -3,7 +3,7 @@ layout: post
 title: "Placeholder"
 description: 
 image: /assets/images/190516.jpeg
-ao: 
+ao: /assets/images/190516AO.png
 author: Schuy H
 tags: 
   - Exteriors

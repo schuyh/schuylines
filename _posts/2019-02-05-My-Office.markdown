@@ -3,7 +3,7 @@ layout: post
 title: "My Office"
 description: 
 image: /assets/images/190205A.png
-ao: 
+ao: /assets/images/190205AO.png
 author: Schuy H
 tags: 
   - Interiors

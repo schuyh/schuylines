@@ -1,0 +1,20 @@
+---
+layout: post
+title: "Holo Moon"
+description: 
+image: /assets/images/200409.png
+ao: /assets/images/200409AO.png
+author: Schuy H
+tags: 
+  - Interiors
+---
+
+A tape recorder that captures and plays back holographic footage? That's right out of The Original Series! 
+
+<!--- Image examples: secondary, full width
+
+![Placeholder](/assets/images/171208.jpeg)
+
+![Placeholder](/assets/images/171208.jpeg#full) 
+
+---> 
