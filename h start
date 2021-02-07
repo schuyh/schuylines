@@ -1,0 +1,24 @@
+[33m9015662[m[33m ([m[1;36mHEAD -> [m[1;32mgh-pages[m[33m, [m[1;31morigin/gh-pages[m[33m)[m Typo, tags
+[33m0535784[m More posts and AO images
+[33md0e5eb8[m More responsive post and postcard image work
+[33m7acd19b[m Phone responsive post images, info, and social icons
+[33m94a5312[m Postcard image size on phones
+[33m4f2ea48[m Moved media screen query below default styling
+[33m7a10b63[m Added media screen query for default styling
+[33mc969b7c[m Build failure: removed scrollbar styling in case colons were causing issues
+[33m3ca8b0a[m Resize nav icons, nav text, footer text on phones, iPhone SE
+[33m23fa4d2[m missing vendor
+[33m5a5f2ad[m Upgraded to Canvas theme, tweaked it as necessary, and updated posts accordingly
+[33mff96c68[m Clean up favicon implementation
+[33me29e61b[m Retrying with original favicon implementation
+[33m8a27bf6[m Cleaning up unnecessary favicon zip folders
+[33mb33d419[m Changed favicon
+[33m6052c0e[m Switched Mat Studies and My Office file names to correct mislabeling
+[33mbb9930c[m Added post: My Office
+[33m76713aa[m Removed plugins, added stopgap pagination fix
+[33m1040519[m Update README.md
+[33m7659dc1[m Merge branch 'origin/gh-pages' into gh-pages
+[33mc8f026d[m[33m ([m[1;32morigin/gh-pages[m[33m)[m Added remote theme to config
+[33ma76ea38[m Add files via upload
+[33m8a7d956[m Initial commit. Set and stylized Barber theme. Added posts and images.
+[33macd0446[m Create CNAME

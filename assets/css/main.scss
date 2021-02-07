@@ -56,7 +56,7 @@ html[data-theme="dark"] {
 /* Fonts */ 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Roboto Slab', serif !important;
     color: var(--grey);
 }
 
@@ -66,7 +66,7 @@ h1 {
 }
 
 h3 {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif !important;
     font-size: 1.25rem;
 }
 
@@ -119,10 +119,12 @@ p {
 
 .header {
     background-image: linear-gradient(var(--bgColor),var(--lgrey));
+    padding-left: 20px;
 }
 
 ul.nav {
     list-style-type: none;
+    padding: 1px;
 }
 
 body {
