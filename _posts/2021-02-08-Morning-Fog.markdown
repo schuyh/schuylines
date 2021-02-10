@@ -2,8 +2,8 @@
 layout: post
 title: "Morning Haze"
 description: 
-image: /assets/images/020621.png
-ao: /assets/images/020621AO.png
+image: /assets/images/020821.png
+ao: /assets/images/020821AO.png
 author: Schuy H
 tags: 
   - Interiors
